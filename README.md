@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjalirawat-er/test_leet/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjalirawat-er/test_leet/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
