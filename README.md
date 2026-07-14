@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0022-generate-parentheses) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjalirawat-er/test_leet/tree/master/0035-search-insert-position) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anjalirawat-er/test_leet/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
