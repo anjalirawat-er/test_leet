@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anjalirawat-er/test_leet/tree/master/0039-combination-sum) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjalirawat-er/test_leet/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anjalirawat-er/test_leet/tree/master/0039-combination-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anjalirawat-er/test_leet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
