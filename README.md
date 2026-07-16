@@ -13,6 +13,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0022-generate-parentheses) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0035-search-insert-position](https://github.com/anjalirawat-er/test_leet/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/anjalirawat-er/test_leet/tree/master/0039-combination-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@
 | [0027-remove-element](https://github.com/anjalirawat-er/test_leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalirawat-er/test_leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anjalirawat-er/test_leet/tree/master/0031-next-permutation) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -69,6 +72,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjalirawat-er/test_leet/tree/master/0035-search-insert-position) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -84,6 +88,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,9 +106,18 @@
 ## Sorting
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
