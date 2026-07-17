@@ -56,6 +56,7 @@
 | [0035-search-insert-position](https://github.com/anjalirawat-er/test_leet/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anjalirawat-er/test_leet/tree/master/0039-combination-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -74,6 +75,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjalirawat-er/test_leet/tree/master/0035-search-insert-position) |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjalirawat-er/test_leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +99,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anjalirawat-er/test_leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +107,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjalirawat-er/test_leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,4 +132,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
