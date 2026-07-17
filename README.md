@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/anjalirawat-er/test_leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
