@@ -9,11 +9,13 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anjalirawat-er/test_leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/anjalirawat-er/test_leet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
@@ -48,6 +50,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/anjalirawat-er/test_leet/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anjalirawat-er/test_leet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
