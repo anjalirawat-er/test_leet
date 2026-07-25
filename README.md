@@ -10,6 +10,7 @@
 | [0038-count-and-say](https://github.com/anjalirawat-er/test_leet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anjalirawat-er/test_leet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/anjalirawat-er/test_leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/anjalirawat-er/test_leet/tree/master/0868-binary-gap) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anjalirawat-er/test_leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
