@@ -113,6 +113,7 @@
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -129,6 +130,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/anjalirawat-er/test_leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/anjalirawat-er/test_leet/tree/master/0868-binary-gap) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anjalirawat-er/test_leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -167,6 +169,7 @@
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
