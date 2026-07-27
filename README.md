@@ -11,6 +11,7 @@
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anjalirawat-er/test_leet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0045-jump-game-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
