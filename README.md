@@ -82,6 +82,7 @@
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0045-jump-game-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -197,6 +199,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Combinatorics
 |  |
 | ------- |
