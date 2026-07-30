@@ -28,6 +28,7 @@
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0045-jump-game-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
@@ -228,6 +229,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
