@@ -81,6 +81,7 @@
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/anjalirawat-er/test_leet/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/anjalirawat-er/test_leet/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/anjalirawat-er/test_leet/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
