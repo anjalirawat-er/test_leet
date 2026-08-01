@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjalirawat-er/test_leet/tree/master/0023-merge-k-sorted-lists) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjalirawat-er/test_leet/tree/master/0023-merge-k-sorted-lists) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anjalirawat-er/test_leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -170,6 +173,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +248,7 @@
 | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +267,7 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
