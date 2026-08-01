@@ -57,6 +57,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjalirawat-er/test_leet/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -215,6 +217,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -224,6 +227,7 @@
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -261,6 +265,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -278,4 +283,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
