@@ -29,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/anjalirawat-er/test_leet/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
@@ -98,6 +99,7 @@
 | [0048-rotate-image](https://github.com/anjalirawat-er/test_leet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/anjalirawat-er/test_leet/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/anjalirawat-er/test_leet/tree/master/0055-jump-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
