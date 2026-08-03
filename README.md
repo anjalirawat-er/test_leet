@@ -73,6 +73,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anjalirawat-er/test_leet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/anjalirawat-er/test_leet/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
@@ -142,6 +143,7 @@
 | [0029-divide-two-integers](https://github.com/anjalirawat-er/test_leet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anjalirawat-er/test_leet/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/anjalirawat-er/test_leet/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
