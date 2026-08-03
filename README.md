@@ -43,6 +43,7 @@
 | [0039-combination-sum](https://github.com/anjalirawat-er/test_leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0047-permutations-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anjalirawat-er/test_leet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
