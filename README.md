@@ -15,6 +15,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/anjalirawat-er/test_leet/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anjalirawat-er/test_leet/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -46,6 +47,7 @@
 | [0047-permutations-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0052-n-queens-ii) |
+| [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -188,6 +191,7 @@
 | [0041-first-missing-positive](https://github.com/anjalirawat-er/test_leet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
+| [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
