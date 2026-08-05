@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/anjalirawat-er/test_leet/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/anjalirawat-er/test_leet/tree/master/3310-remove-methods-from-project) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -326,4 +328,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/anjalirawat-er/test_leet/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
