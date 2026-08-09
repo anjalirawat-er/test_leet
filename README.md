@@ -111,6 +111,7 @@
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/anjalirawat-er/test_leet/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anjalirawat-er/test_leet/tree/master/0056-merge-intervals) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anjalirawat-er/test_leet/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -384,4 +386,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/anjalirawat-er/test_leet/tree/master/3620-network-recovery-pathways) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anjalirawat-er/test_leet/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
