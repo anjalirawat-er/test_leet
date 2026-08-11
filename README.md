@@ -126,6 +126,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -251,6 +252,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalirawat-er/test_leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -277,6 +279,7 @@
 | [0055-jump-game](https://github.com/anjalirawat-er/test_leet/tree/master/0055-jump-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +304,7 @@
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
