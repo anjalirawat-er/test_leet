@@ -11,6 +11,7 @@
 | [0043-multiply-strings](https://github.com/anjalirawat-er/test_leet/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/anjalirawat-er/test_leet/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/anjalirawat-er/test_leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/anjalirawat-er/test_leet/tree/master/0071-simplify-path) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjalirawat-er/test_leet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
