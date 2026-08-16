@@ -139,6 +139,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anjalirawat-er/test_leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/2553-separate-the-digits-in-an-array) |
@@ -207,6 +208,7 @@
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anjalirawat-er/test_leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -308,6 +310,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anjalirawat-er/test_leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -348,6 +351,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -416,6 +420,7 @@
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -441,11 +446,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 ## Topological Sort
 |  |
 | ------- |
@@ -458,6 +465,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
