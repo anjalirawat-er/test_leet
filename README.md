@@ -415,6 +415,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/anjalirawat-er/test_leet/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anjalirawat-er/test_leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -483,6 +484,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
@@ -523,9 +525,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
