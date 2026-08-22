@@ -248,6 +248,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anjalirawat-er/test_leet/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anjalirawat-er/test_leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjalirawat-er/test_leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
