@@ -21,6 +21,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anjalirawat-er/test_leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjalirawat-er/test_leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -51,6 +52,7 @@
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1563-stone-game-v) |
+| [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjalirawat-er/test_leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -163,6 +165,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/2553-separate-the-digits-in-an-array) |
+| [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anjalirawat-er/test_leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalirawat-er/test_leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -354,6 +357,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anjalirawat-er/test_leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -385,6 +389,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anjalirawat-er/test_leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anjalirawat-er/test_leet/tree/master/3643-flip-square-submatrix-vertically) |
@@ -451,6 +456,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anjalirawat-er/test_leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anjalirawat-er/test_leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
