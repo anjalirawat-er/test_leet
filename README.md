@@ -60,6 +60,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anjalirawat-er/test_leet/tree/master/3620-network-recovery-pathways) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anjalirawat-er/test_leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjalirawat-er/test_leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -444,6 +446,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/anjalirawat-er/test_leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anjalirawat-er/test_leet/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
 |  |
 | ------- |
