@@ -165,6 +165,7 @@
 | [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anjalirawat-er/test_leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
@@ -327,6 +328,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anjalirawat-er/test_leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalirawat-er/test_leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -365,6 +367,7 @@
 | [1927-sum-game](https://github.com/anjalirawat-er/test_leet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anjalirawat-er/test_leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
