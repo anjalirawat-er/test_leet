@@ -151,6 +151,7 @@
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anjalirawat-er/test_leet/tree/master/1301-number-of-paths-with-max-score) |
+| [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/anjalirawat-er/test_leet/tree/master/1386-cinema-seat-allocation) |
@@ -478,6 +479,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
@@ -529,6 +531,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/anjalirawat-er/test_leet/tree/master/3310-remove-methods-from-project) |
