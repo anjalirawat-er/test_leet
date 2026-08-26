@@ -26,6 +26,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anjalirawat-er/test_leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjalirawat-er/test_leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anjalirawat-er/test_leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjalirawat-er/test_leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjalirawat-er/test_leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -180,6 +181,7 @@
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anjalirawat-er/test_leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalirawat-er/test_leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anjalirawat-er/test_leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anjalirawat-er/test_leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anjalirawat-er/test_leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -310,6 +312,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anjalirawat-er/test_leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjalirawat-er/test_leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anjalirawat-er/test_leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjalirawat-er/test_leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -592,4 +595,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0095-unique-binary-search-trees-ii) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anjalirawat-er/test_leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
