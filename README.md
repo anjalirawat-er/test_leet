@@ -166,6 +166,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anjalirawat-er/test_leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anjalirawat-er/test_leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anjalirawat-er/test_leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/anjalirawat-er/test_leet/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
