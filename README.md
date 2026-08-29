@@ -287,6 +287,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anjalirawat-er/test_leet/tree/master/3536-maximum-product-of-two-digits) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anjalirawat-er/test_leet/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anjalirawat-er/test_leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjalirawat-er/test_leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -569,6 +570,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/anjalirawat-er/test_leet/tree/master/3310-remove-methods-from-project) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anjalirawat-er/test_leet/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -611,6 +613,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anjalirawat-er/test_leet/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anjalirawat-er/test_leet/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
