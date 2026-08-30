@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anjalirawat-er/test_leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/anjalirawat-er/test_leet/tree/master/0071-simplify-path) |
+| [1189-maximum-number-of-balloons](https://github.com/anjalirawat-er/test_leet/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjalirawat-er/test_leet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -319,6 +320,7 @@
 | [0037-sudoku-solver](https://github.com/anjalirawat-er/test_leet/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/anjalirawat-er/test_leet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/anjalirawat-er/test_leet/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/anjalirawat-er/test_leet/tree/master/1386-cinema-seat-allocation) |
@@ -466,6 +468,7 @@
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/anjalirawat-er/test_leet/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
