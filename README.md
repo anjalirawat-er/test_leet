@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/anjalirawat-er/test_leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anjalirawat-er/test_leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/anjalirawat-er/test_leet/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/anjalirawat-er/test_leet/tree/master/0115-distinct-subsequences) |
 | [1189-maximum-number-of-balloons](https://github.com/anjalirawat-er/test_leet/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjalirawat-er/test_leet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -53,6 +54,7 @@
 | [0053-maximum-subarray](https://github.com/anjalirawat-er/test_leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anjalirawat-er/test_leet/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/anjalirawat-er/test_leet/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/anjalirawat-er/test_leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
