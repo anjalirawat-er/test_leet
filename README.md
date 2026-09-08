@@ -178,6 +178,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anjalirawat-er/test_leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anjalirawat-er/test_leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/anjalirawat-er/test_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/anjalirawat-er/test_leet/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -386,6 +387,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anjalirawat-er/test_leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/anjalirawat-er/test_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anjalirawat-er/test_leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -427,6 +429,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anjalirawat-er/test_leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/anjalirawat-er/test_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/anjalirawat-er/test_leet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anjalirawat-er/test_leet/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -561,6 +564,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/anjalirawat-er/test_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anjalirawat-er/test_leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
