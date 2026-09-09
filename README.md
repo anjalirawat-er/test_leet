@@ -75,6 +75,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anjalirawat-er/test_leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anjalirawat-er/test_leet/tree/master/3620-network-recovery-pathways) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
@@ -507,6 +508,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/anjalirawat-er/test_leet/tree/master/3903-smallest-stable-index-i) |
