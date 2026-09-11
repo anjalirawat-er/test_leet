@@ -79,6 +79,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,6 +321,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anjalirawat-er/test_leet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
