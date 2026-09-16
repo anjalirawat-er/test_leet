@@ -73,6 +73,7 @@
 | [1872-stone-game-viii](https://github.com/anjalirawat-er/test_leet/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anjalirawat-er/test_leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anjalirawat-er/test_leet/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjalirawat-er/test_leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -212,6 +213,7 @@
 | [2615-sum-of-distances](https://github.com/anjalirawat-er/test_leet/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anjalirawat-er/test_leet/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/anjalirawat-er/test_leet/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anjalirawat-er/test_leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
