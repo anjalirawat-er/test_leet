@@ -128,6 +128,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anjalirawat-er/test_leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-network-recovery-pathways](https://github.com/anjalirawat-er/test_leet/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anjalirawat-er/test_leet/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anjalirawat-er/test_leet/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anjalirawat-er/test_leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjalirawat-er/test_leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anjalirawat-er/test_leet/tree/master/3731-find-missing-elements) |
@@ -507,6 +509,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anjalirawat-er/test_leet/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anjalirawat-er/test_leet/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjalirawat-er/test_leet/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph Theory
 |  |
@@ -607,6 +610,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anjalirawat-er/test_leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
