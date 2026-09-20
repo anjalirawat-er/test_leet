@@ -189,6 +189,7 @@
 | [1340-jump-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/anjalirawat-er/test_leet/tree/master/1386-cinema-seat-allocation) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -537,6 +538,7 @@
 | [0835-image-overlap](https://github.com/anjalirawat-er/test_leet/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anjalirawat-er/test_leet/tree/master/1301-number-of-paths-with-max-score) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -623,6 +625,7 @@
 | ------- |
 | [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -632,6 +635,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
@@ -678,6 +682,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anjalirawat-er/test_leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anjalirawat-er/test_leet/tree/master/2685-count-the-number-of-complete-components) |
