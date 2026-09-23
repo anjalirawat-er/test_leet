@@ -14,6 +14,7 @@
 | [0058-length-of-last-word](https://github.com/anjalirawat-er/test_leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/anjalirawat-er/test_leet/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/anjalirawat-er/test_leet/tree/master/0115-distinct-subsequences) |
+| [0796-rotate-string](https://github.com/anjalirawat-er/test_leet/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anjalirawat-er/test_leet/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anjalirawat-er/test_leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalirawat-er/test_leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/anjalirawat-er/test_leet/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
