@@ -207,6 +207,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/anjalirawat-er/test_leet/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anjalirawat-er/test_leet/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anjalirawat-er/test_leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/anjalirawat-er/test_leet/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anjalirawat-er/test_leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -277,6 +278,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anjalirawat-er/test_leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anjalirawat-er/test_leet/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
+| [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anjalirawat-er/test_leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anjalirawat-er/test_leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/anjalirawat-er/test_leet/tree/master/2540-minimum-common-value) |
@@ -557,6 +559,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/2812-find-the-safest-path-in-a-grid) |
