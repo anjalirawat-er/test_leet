@@ -92,6 +92,7 @@
 | [3660-jump-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anjalirawat-er/test_leet/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Backtracking
@@ -269,6 +270,7 @@
 | [3731-find-missing-elements](https://github.com/anjalirawat-er/test_leet/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anjalirawat-er/test_leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjalirawat-er/test_leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalirawat-er/test_leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -572,6 +574,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anjalirawat-er/test_leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anjalirawat-er/test_leet/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
