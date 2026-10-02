@@ -1,29 +1,23 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
+    List<String> res = new ArrayList<>();
+
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
-        backtrack(result, new StringBuilder(), 0, 0, n);
-        return result;
+        if (n-- == 1) return List.of("()");
+        dfs(n, n, "(");
+
+        return res;
     }
 
-    private void backtrack(List<String> result, StringBuilder current, int open, int close, int max) {
-        if (current.length() == max * 2) {
-            result.add(current.toString());
+    private void dfs(int O, int C, String s) {
+        if (O == 0 && C == 0) {
+            res.add(s + ")");
             return;
         }
 
-        if (open < max) {
-            current.append("(");
-            backtrack(result, current, open + 1, close, max);
-            current.deleteCharAt(current.length() - 1); // Backtrack
-        }
+        if (O > 0)
+            dfs(O - 1, C, s + "(");
 
-        if (close < open) {
-            current.append(")");
-            backtrack(result, current, open, close + 1, max);
-            current.deleteCharAt(current.length() - 1); // Backtrack
-        }
+        if (C >= O)
+            dfs(O, C - 1, s + ")");
     }
 }
