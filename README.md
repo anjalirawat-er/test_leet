@@ -222,6 +222,7 @@
 | [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/anjalirawat-er/test_leet/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anjalirawat-er/test_leet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjalirawat-er/test_leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
@@ -519,6 +520,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/anjalirawat-er/test_leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -587,6 +589,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/anjalirawat-er/test_leet/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anjalirawat-er/test_leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/2812-find-the-safest-path-in-a-grid) |
