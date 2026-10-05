@@ -255,6 +255,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anjalirawat-er/test_leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anjalirawat-er/test_leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anjalirawat-er/test_leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anjalirawat-er/test_leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -325,6 +326,7 @@
 | [2540-minimum-common-value](https://github.com/anjalirawat-er/test_leet/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anjalirawat-er/test_leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anjalirawat-er/test_leet/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anjalirawat-er/test_leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -676,6 +678,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -711,6 +714,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3161-block-placement-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3161-block-placement-queries) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting Sort
 |  |
@@ -829,4 +833,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anjalirawat-er/test_leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/anjalirawat-er/test_leet/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
