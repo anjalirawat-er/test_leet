@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/anjalirawat-er/test_leet/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/anjalirawat-er/test_leet/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/anjalirawat-er/test_leet/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0301-remove-invalid-parentheses) |
 | [0796-rotate-string](https://github.com/anjalirawat-er/test_leet/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anjalirawat-er/test_leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -116,6 +117,7 @@
 | [0051-n-queens](https://github.com/anjalirawat-er/test_leet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjalirawat-er/test_leet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1980-find-unique-binary-string) |
@@ -690,6 +692,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
