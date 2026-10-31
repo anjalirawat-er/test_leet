@@ -110,6 +110,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/anjalirawat-er/test_leet/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/anjalirawat-er/test_leet/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -300,6 +301,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/anjalirawat-er/test_leet/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anjalirawat-er/test_leet/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/anjalirawat-er/test_leet/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anjalirawat-er/test_leet/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anjalirawat-er/test_leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -648,6 +650,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anjalirawat-er/test_leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anjalirawat-er/test_leet/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/anjalirawat-er/test_leet/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
