@@ -251,6 +251,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalirawat-er/test_leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/anjalirawat-er/test_leet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anjalirawat-er/test_leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anjalirawat-er/test_leet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anjalirawat-er/test_leet/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anjalirawat-er/test_leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anjalirawat-er/test_leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -333,6 +334,7 @@
 | [0086-partition-list](https://github.com/anjalirawat-er/test_leet/tree/master/0086-partition-list) |
 | [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anjalirawat-er/test_leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anjalirawat-er/test_leet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anjalirawat-er/test_leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/anjalirawat-er/test_leet/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjalirawat-er/test_leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -567,6 +569,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anjalirawat-er/test_leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anjalirawat-er/test_leet/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anjalirawat-er/test_leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
