@@ -226,6 +226,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anjalirawat-er/test_leet/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
@@ -338,6 +339,7 @@
 | [0042-trapping-rain-water](https://github.com/anjalirawat-er/test_leet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anjalirawat-er/test_leet/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/anjalirawat-er/test_leet/tree/master/0086-partition-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/anjalirawat-er/test_leet/tree/master/1861-rotating-the-box) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anjalirawat-er/test_leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anjalirawat-er/test_leet/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -359,6 +361,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalirawat-er/test_leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anjalirawat-er/test_leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/anjalirawat-er/test_leet/tree/master/2540-minimum-common-value) |
@@ -546,6 +549,7 @@
 | [1288-remove-covered-intervals](https://github.com/anjalirawat-er/test_leet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anjalirawat-er/test_leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anjalirawat-er/test_leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
