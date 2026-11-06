@@ -266,6 +266,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/anjalirawat-er/test_leet/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/anjalirawat-er/test_leet/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/anjalirawat-er/test_leet/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anjalirawat-er/test_leet/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/anjalirawat-er/test_leet/tree/master/2784-check-if-array-is-good) |
@@ -490,6 +491,7 @@
 | [2540-minimum-common-value](https://github.com/anjalirawat-er/test_leet/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/anjalirawat-er/test_leet/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anjalirawat-er/test_leet/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/anjalirawat-er/test_leet/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/anjalirawat-er/test_leet/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anjalirawat-er/test_leet/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anjalirawat-er/test_leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -522,6 +524,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anjalirawat-er/test_leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/anjalirawat-er/test_leet/tree/master/1871-jump-game-vii) |
+| [2747-count-zero-request-servers](https://github.com/anjalirawat-er/test_leet/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anjalirawat-er/test_leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anjalirawat-er/test_leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjalirawat-er/test_leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -560,6 +563,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/anjalirawat-er/test_leet/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anjalirawat-er/test_leet/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/anjalirawat-er/test_leet/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/anjalirawat-er/test_leet/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/anjalirawat-er/test_leet/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anjalirawat-er/test_leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
