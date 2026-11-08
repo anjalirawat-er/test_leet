@@ -221,6 +221,7 @@
 | [0877-stone-game](https://github.com/anjalirawat-er/test_leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/anjalirawat-er/test_leet/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/anjalirawat-er/test_leet/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anjalirawat-er/test_leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
@@ -662,6 +663,7 @@
 | [0059-spiral-matrix-ii](https://github.com/anjalirawat-er/test_leet/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/anjalirawat-er/test_leet/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/anjalirawat-er/test_leet/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/anjalirawat-er/test_leet/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -690,6 +692,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/anjalirawat-er/test_leet/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/anjalirawat-er/test_leet/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/anjalirawat-er/test_leet/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/anjalirawat-er/test_leet/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anjalirawat-er/test_leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -774,6 +777,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anjalirawat-er/test_leet/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/anjalirawat-er/test_leet/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -787,6 +791,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anjalirawat-er/test_leet/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anjalirawat-er/test_leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/anjalirawat-er/test_leet/tree/master/2573-find-the-string-with-lcp) |
@@ -835,6 +840,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anjalirawat-er/test_leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/anjalirawat-er/test_leet/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anjalirawat-er/test_leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
