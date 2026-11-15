@@ -92,6 +92,7 @@
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anjalirawat-er/test_leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/anjalirawat-er/test_leet/tree/master/1871-jump-game-vii) |
@@ -238,6 +239,7 @@
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjalirawat-er/test_leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/anjalirawat-er/test_leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anjalirawat-er/test_leet/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -416,6 +418,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/anjalirawat-er/test_leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/anjalirawat-er/test_leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anjalirawat-er/test_leet/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anjalirawat-er/test_leet/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anjalirawat-er/test_leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/anjalirawat-er/test_leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -719,6 +722,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjalirawat-er/test_leet/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anjalirawat-er/test_leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anjalirawat-er/test_leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anjalirawat-er/test_leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anjalirawat-er/test_leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
